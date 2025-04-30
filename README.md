@@ -72,5 +72,5 @@ R.Akhil Teja
 A.Balaji Asish
 
 <div> 
-<h2 align = 'right'> Thank You !! </h2>
+<h2 align = 'left'> Thank You !! </h2>
 </div>
